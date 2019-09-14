@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1519346634 source:c:\users\harry\documents\c projects\mp3player\main.c
+	<stdio.h>
+	<string.h>
+	"sortAndShuffle.h"
+
+1519346628 c:\users\harry\documents\c projects\mp3player\sortandshuffle.h
+
+1519389658 source:c:\users\harry\documents\c projects\mp3player\sortandshuffle.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"sortAndShuffle.h"
+
